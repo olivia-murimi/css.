@@ -1,0 +1,58 @@
+/* my first css */
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#ffffcc;
+}
+img{
+    border: 10px solid rgb(8, 135, 233);
+}
+h1, h2{
+    border:5px dotted purple;
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+blockquote{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:3rem;
+    font-style:italic;
+    text-align:center;
+}
+cite{
+    font-size:1.5rem;
+}
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+
+.bigbold {
+    font-family: cursive;
+    font-size:1.3rem ;
+}
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color:lightsalmon;
+}
+a:visited {
+    color: green;
+    font-size: 2rem;
+    font-weight: normal;
+}
+a:hover {
+    color:blue;
+    text-decoration: underline;
+    background-color: beige;
+}
+.harvard.a:link {
+    color :black;
+}
+#myid {
+    color: ourple;
+    font-weight:bold;
+}
+
+
+
+

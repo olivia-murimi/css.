@@ -15,3 +15,11 @@ blockquote{
 cite{
     font-size: 2rem;
 }
+a:link{
+   text-decoration: underline;
+   font-weight: bold; 
+   
+}
+a:hover{
+    color:yellow;
+}
